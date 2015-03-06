@@ -1,0 +1,254 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-2140578560
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=995 outsize=1278 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4236 outsize=3453 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4236 outsize=6 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: preprocess
+  insize=1000 outsize=1283 ok=1
+Cmd: preprocess
+  insize=1475 outsize=384 ok=1
+Cmd: preprocess
+  insize=3282 outsize=387 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (40): 'vec2' : syntax error syntax error\nCompiling Vertex program
+  api=0 type=0 insize=3203 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=3284 outsize=387 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (111): 'rmf' : no matching overloaded function found; 'fbm' : no matching overloaded function found\nCompiling Vertex program
+  error: 2 plat 0 at (112): 'vrmf' : no matching overloaded function found; 'vfbm' : no matching overloaded function found; 'voronoi' : no matching overloaded function found\nCompiling Vertex program
+  api=0 type=0 insize=3205 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2837 outsize=387 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2758 outsize=263 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2758 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=2860 outsize=386 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2781 outsize=2171 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2781 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=7427 outsize=8914 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=7427 outsize=6 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: preprocess
+  insize=2860 outsize=386 ok=1
+Cmd: preprocess
+  insize=2721 outsize=283 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2745 outsize=2171 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2745 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=1462 outsize=384 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1381 outsize=11802 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1381 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=1462 outsize=384 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1381 outsize=11802 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1381 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=1463 outsize=385 ok=1
+Cmd: preprocess
+  insize=2727 outsize=281 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2751 outsize=2188 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2751 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=2733 outsize=283 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2757 outsize=2212 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2757 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=2739 outsize=283 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2763 outsize=2211 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2763 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=2727 outsize=281 ok=1
+Cmd: preprocess
+  insize=1463 outsize=385 ok=1
+Cmd: preprocess
+  insize=2727 outsize=281 ok=1
+Cmd: preprocess
+  insize=2727 outsize=281 ok=1
+Cmd: preprocess
+  insize=2727 outsize=281 ok=1
+Cmd: preprocess
+  insize=2727 outsize=281 ok=1
+Cmd: preprocess
+  insize=2727 outsize=281 ok=1
+Cmd: preprocess
+  insize=946 outsize=280 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=968 outsize=2188 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=968 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=3549 outsize=283 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (25): 'mod289' : function already has a body\nCompiling Vertex program
+  api=0 type=0 insize=3573 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=3551 outsize=283 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3575 outsize=4287 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3575 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=3568 outsize=282 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3592 outsize=4311 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3592 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=3569 outsize=283 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3593 outsize=4312 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3593 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=3568 outsize=283 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3592 outsize=4303 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3592 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=3644 outsize=283 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3668 outsize=4279 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3668 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=1067 outsize=279 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1089 outsize=4279 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1089 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=1067 outsize=280 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1089 outsize=4303 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1089 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=1069 outsize=280 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (45): 'snoise' : no matching overloaded function found\nCompiling Vertex program
+  api=0 type=0 insize=1091 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=4972 outsize=283 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (70): 'lessThan' : no matching overloaded function found\nCompiling Vertex program
+  api=0 type=0 insize=4996 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=4967 outsize=283 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4991 outsize=6749 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4991 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=4968 outsize=283 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4992 outsize=6752 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4992 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=4974 outsize=283 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4998 outsize=6760 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4998 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=5232 outsize=283 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (82): 'lessthan' : no matching overloaded function found\nCompiling Vertex program
+  api=0 type=0 insize=5256 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=5227 outsize=282 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=5251 outsize=6760 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=5251 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=5232 outsize=283 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=5256 outsize=7320 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=5256 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=5228 outsize=283 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=5252 outsize=7316 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=5252 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=1153 outsize=280 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (49): 'snoise' : no matching overloaded function found\nCompiling Vertex program
+  api=0 type=0 insize=1175 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1153 outsize=280 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (49): 'snoise' : no matching overloaded function found\nCompiling Vertex program
+  api=0 type=0 insize=1175 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1179 outsize=280 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1201 outsize=7316 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1201 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=1179 outsize=280 ok=1
+Cmd: preprocess
+  insize=1179 outsize=280 ok=1
+Cmd: preprocess
+  insize=1179 outsize=280 ok=1
+Cmd: preprocess
+  insize=1206 outsize=280 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1228 outsize=7316 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1228 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=1206 outsize=280 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1228 outsize=4303 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1228 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=1206 outsize=280 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1228 outsize=2171 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1228 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=1206 outsize=280 ok=1
+Cmd: preprocess
+  insize=1206 outsize=280 ok=1
+Cmd: preprocess
+  insize=1206 outsize=280 ok=1
+Cmd: preprocess
+  insize=1206 outsize=280 ok=1
+Cmd: preprocess
+  insize=1206 outsize=280 ok=1
+Cmd: preprocess
+  insize=1206 outsize=280 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1228 outsize=4303 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1228 outsize=6 kw= ok=1
