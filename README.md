@@ -1,6 +1,5 @@
 # UnityShaderNoise
-ShaderNoiseを.cgincにまとめました.
+Ports of noise shaders for Unity.
 
-Referenced below
+### Referenced
 http://glslsandbox.com/e#20793.0
-https://github.com/ashima/webgl-noise
